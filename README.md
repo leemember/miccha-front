@@ -58,6 +58,7 @@
 ### **로그인 하기 전의 첫 페이지**
 
 - full page + 버튼 클릭 시 애니메이션 스크롤 기능
+
 ![](https://images.velog.io/images/leemember/post/5e8aebb0-d6ef-4bca-8bc8-b285e63149d4/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)
 
 ### 로그인 및 회원가입
