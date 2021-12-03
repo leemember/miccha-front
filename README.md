@@ -53,22 +53,34 @@
 
 <br>
 
-## 📌 화면 소개
+## 🖼  화면 소개
 
-<br>
+### **로그인 하기 전의 첫 페이지**
 
-### 로그인 전 메인페이지
+- full page + 버튼 클릭 시 애니메이션 스크롤 기능
 
-![](https://images.velog.io/images/leemember/post/5e8aebb0-d6ef-4bca-8bc8-b285e63149d4/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)
- 
-<br>
+![https://media.vlpt.us/images/leemember/post/5e8aebb0-d6ef-4bca-8bc8-b285e63149d4/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif](https://media.vlpt.us/images/leemember/post/5e8aebb0-d6ef-4bca-8bc8-b285e63149d4/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif)
 
-### 로그인 페이지
+### 로그인 및 회원가입
 
-![](https://images.velog.io/images/leemember/post/8a9bd002-afc6-4adb-ab30-bda08c3dd608/login.gif)
+![https://media.vlpt.us/images/leemember/post/8a9bd002-afc6-4adb-ab30-bda08c3dd608/login.gif](https://media.vlpt.us/images/leemember/post/8a9bd002-afc6-4adb-ab30-bda08c3dd608/login.gif)
 
-<br>
+![https://media.vlpt.us/images/leemember/post/135cc4d8-ce76-48b4-8e25-cd7ad4b7880b/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif](https://media.vlpt.us/images/leemember/post/135cc4d8-ce76-48b4-8e25-cd7ad4b7880b/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif)
 
-### 회원가입 페이지
+### 로그인 성공 후
 
-![](https://images.velog.io/images/leemember/post/135cc4d8-ce76-48b4-8e25-cd7ad4b7880b/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif)
+- 상단 Intro 슬라이드 구간 Swiper를 사용하여 부드럽게 넘겨지도록 연출
+- `탐색하기` 구간에 마우스오버 시 안보이던 메뉴 컴포넌트 보이도록 구현
+
+![https://media.vlpt.us/images/leemember/post/0e5c0755-2cde-4aef-bf2c-6278b83a3ad0/home.gif](https://media.vlpt.us/images/leemember/post/0e5c0755-2cde-4aef-bf2c-6278b83a3ad0/home.gif)
+
+![https://media.vlpt.us/images/leemember/post/345c8982-a4e3-4104-b8b9-27ea4b11df97/search.gif](https://media.vlpt.us/images/leemember/post/345c8982-a4e3-4104-b8b9-27ea4b11df97/search.gif)
+
+### 영화 목록 및 해당 영화 클릭 시 Detail View
+
+- 해당 영화 클릭 시 세부 정보 표시되는 컴포넌트 나타나도록 구현
+- 보고싶어요 클릭 시 상태 변경
+- 공통된 영화 UI 컴포넌트 설계
+- Footer 생성
+
+![https://media.vlpt.us/images/leemember/post/b3ba7ebe-92b9-4590-9e0b-e91cbd0cd0c5/home3.gif](https://media.vlpt.us/images/leemember/post/b3ba7ebe-92b9-4590-9e0b-e91cbd0cd0c5/home3.gif)
