@@ -83,4 +83,5 @@
 - 공통된 영화 UI 컴포넌트 설계
 - Footer 생성
 
-![https://media.vlpt.us/images/leemember/post/b3ba7ebe-92b9-4590-9e0b-e91cbd0cd0c5/home3.gif](https://media.vlpt.us/images/leemember/post/b3ba7ebe-92b9-4590-9e0b-e91cbd0cd0c5/home3.gif)
+![https://media.vlpt.us/images/leemember/post/de095f34-2dfc-43eb-a97c-8e5bcf24f888/home3.gif](https://media.vlpt.us/images/leemember/post/de095f34-2dfc-43eb-a97c-8e5bcf24f888/home3.gif)
+
