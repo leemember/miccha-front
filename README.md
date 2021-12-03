@@ -84,5 +84,3 @@
 
 ![](https://images.velog.io/images/leemember/post/de095f34-2dfc-43eb-a97c-8e5bcf24f888/home3.gif)
 
-![](https://images.velog.io/images/leemember/post/345c8982-a4e3-4104-b8b9-27ea4b11df97/search.gif)
-
